@@ -1,6 +1,6 @@
 @echo off
 Title %DATE% time/t
-cd /d "E:\Users\KevinPham\Downloads\Red-DiscordBot"
+cd /d "E:\Users\User\Downloads\Red-DiscordBot"
 git pull >%USERPROFILE%\Desktop\git-pull.txt 
 echo %DATE% >>%USERPROFILE%\Desktop\git-pull.txt
 time /T >>%USERPROFILE%\Desktop\git-pull.txt
