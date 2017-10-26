@@ -1,5 +1,5 @@
 @echo off
-Title %DATE% time/t
+Title %DATE% 
 set subl1 = "E:\Program Files\Sublime Text 3\subl"
 cd /d "E:\Users\User\Downloads\Red-DiscordBot"
 git pull >%USERPROFILE%\Desktop\git-pull.txt
